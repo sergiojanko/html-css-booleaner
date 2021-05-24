@@ -9,16 +9,29 @@ header{
     width: 200px;
     height: 100px;
 }
-h3{
+.title{
+    font-size: 30px;
+}
+article
+.author{
     color: #646464;
 }
-
+.marked{
+    background-color: yellow;
+}
+#blue{
+    color: rgb(6, 203, 252);
+}
 .white{
     color: white;
 }
 
 .ads{
     color: white;
+    text-align: center;
+}
+#ads-title{
+    color: #646464
 }
 #img-1{
    width: 200px;
@@ -30,4 +43,3 @@ h3{
     height: 150px;
     background-image: url(../img/graph.jpg);
  }
-}

@@ -22,6 +22,16 @@ article
 #blue{
     color: rgb(6, 203, 252);
 }
+table{
+    text-align: left;
+}
+thead{
+    color: white;
+    background-color: rgb(0, 110, 255);
+}
+.dispari{
+    background-color: rgb(2, 188, 235);
+}
 .white{
     color: white;
 }
